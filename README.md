@@ -1,5 +1,6 @@
 # Timer
-  This is a file python ,but it convert to exe
+This is a file python ,but it convert to exe,
+You set the time to shut down the PC, then it starts counting until it reaches the time you specified, then it gives a warning that it is about to shut down the device, then it waits a little time, then the device shuts down automatically.
 
 # How to use ?
 
